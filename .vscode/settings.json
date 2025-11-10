@@ -1,0 +1,17 @@
+{
+    
+  // 确保这些设置都存在
+  "emmet.includeLanguages": {
+    "markdown": "html"
+  },
+  "emmet.showExpandedAbbreviation": "always",
+  "emmet.triggerExpansionOnTab": true,
+  
+  // 可选：禁用可能冲突的扩展
+  "editor.quickSuggestions": {
+    "other": true,
+    "comments": false,
+    "strings": true
+  
+}
+}
